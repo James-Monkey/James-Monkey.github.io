@@ -1,2 +1,2 @@
 # James-Monkey.github.io
-Test Site
+<o/ This is just a test.
